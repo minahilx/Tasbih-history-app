@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_St">Tasbih Counter</string>
+    <string name="appLabel"> Tasbih </string>
+    <string name="app_name">CounterApp</string>
+    <string name="count_St"> Count </string>
+    <string name="reset_St"> Reset </string>
+    <string name="desc_St"> Description: Add help for using app </string>
+    <string name="counterText_St"> 0 </string>
+    <string name="history">History</string>
+</resources>
